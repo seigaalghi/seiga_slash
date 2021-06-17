@@ -17,3 +17,4 @@ this link accpet next params to redirect after login
 example localhost:3000?next=google.com
 
 after login succed users will be redirected to next params
+and will save the token (jwt) to localstorage
