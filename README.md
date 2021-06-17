@@ -18,3 +18,6 @@ example localhost:3000?next=google.com
 
 after login succed users will be redirected to next params
 and will save the token (jwt) to localstorage
+
+
+this project included with register page too, the mechanism is almost the same as login page
